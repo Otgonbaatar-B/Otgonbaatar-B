@@ -10,7 +10,7 @@
 🛠️ Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,docker,kubernetes,linux,git,github,figma,vscode" alt="Tech Stack"/> </div>
 🌍 Connect with Me
-<p align="center"> <a href="https://twitter.com/otgonbaatar"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="http://linkedin.com/in/otgonbaatar-battumur-bab7032b9"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/obikaze"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p>
+<p align="center"> <a href="http://linkedin.com/in/otgonbaatar-battumur-bab7032b9"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/obikaze"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&theme=radical&hide_border=true" width="50%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&theme=radical&hide_border=true" width="50%" /> </div>
 ✨ Thanks for visiting my profile! Keep Coding & Keep Growing! 🚀
