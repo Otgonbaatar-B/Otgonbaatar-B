@@ -4,7 +4,7 @@
 🎯 Full Stack Developer passionate about building scalable web applications and learning DevOps.
 🔭 Currently working on Vexa Web App.
 📌 Interested in MERN Stack, Android Development, and Cloud Technologies.
-📩 Reach me at rishavchanda0@gmail.com.
+📩 Reach me at the.otgonbaatar56@gmail.com.
 ⚡ Fun Fact: Coding + Coffee = Infinite Productivity!
 
 🛠️ Tech Stack
